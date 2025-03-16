@@ -2,7 +2,7 @@ body {
     font-family: "Overlock", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     scroll-behavior: smooth;
     position: relative;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .bg-color {
