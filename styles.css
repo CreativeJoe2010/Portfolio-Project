@@ -574,7 +574,7 @@ body {
     text-transform: uppercase;
     top: 0;
     transform: translateY(-50%);
-    padding: 0.8% 1.6%;
+    padding: 0.8% 1.6% !important;
     font-weight: 450;
     text-shadow: 0.1rem 0.1rem 0.1rem #1b2d3f21;
     box-shadow: 0 0 0.5rem 0.5rem #4487ce6d;
